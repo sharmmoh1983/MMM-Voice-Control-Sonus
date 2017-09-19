@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aimevoice2017",
+  "private_key_id": "91efae41b5b4cea1a69df1a92a720fb1b534cce6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDuk1x1uZ4hxQmn\npfb2mT7wVoI19YrXGfWpcjHiQdGgfHC8wR3aPt+6GNMa1C4PYnsu103rxXJHEltV\nvycBCABihB5ntZHxlmvIzxX6RQ0xdq3Tu7ECDQlUUPGT6SiXERzMgj1NZEDnnApA\nAfGwEepLrR5/G2OuO82KQywTjPD/TfElHQHOQuFzVNbPMcysd8kU+G7MiP4fEdbG\nblbTeuGc8znXbYPxXWFO+mxOREatrES+ewUvYGR3vjhrKb2PxhrojnscuL5n/MBY\nf3SXcGf8hkSA/XUqPgKSYCmjoQv25wtqZQKoq8VRHaIphKTw/pnRE9AbRDK5/vKj\nLlYtcFmHAgMBAAECggEAGC5yM1yFCAHjYKK/IsTq+Yv11rz0kv4xRY4q5YwA+2Ch\nl1WGTmthBzPM8e3fsp+AwiwAhzfpcAVkTI9Qx2yliAFsM4bWgW4wWUI5hWHKXIvI\nQqsbiIxZuGTGl6oM+y2OMGG4ZPJsbGKx3JsAgaAkkgG8vZVrx7/irXOcMWnFDkYI\nsmG/tP9f+mIlGESjx+gZs2xnsfriIlojL4nOBNXof9pjaeK6mgILNRru2IwSTt7q\n0JJHTWSJhsTMYTF3z8AUk/y7ckIkPkFhESLmGc7g0xpS5jvGCwPeoV3Uzf/aLH+G\n2tWlt94iOXZJrVw8Tx/a3y/3hWE57TBRRl8QwQA7wQKBgQD/w1DyYgMDoZlbNvuV\nIpH8r6haPqn8JwkYYnni1K1EGe8G1AgM+LFCZv2QdvS7Bcc/lJ6ZF23By6Fogkng\n3kaZZtbECNyiB4CdZwoMYDmfdNWFud+xD65h1BJLBN1lfx7eDasDs01PK2R8uhEd\nEIdGLnE7E9Z+GNS47UUncsmB/QKBgQDuy/eN4NN1PAR4NoNyWnlQbBDb/XuSxoo5\n2vnJ3FOglBFUqO12RmSY7Uz4RujErrukRWmiD3m3go4mG7nMaKNpTUEj8ytNLWWn\n7vEr6fHTczh6hF3vaqXdlkHqfyMd7Ksra92ixE1SMYWj6ElUq6/6khUeH6dIk52X\nsWA5T9Xu0wKBgBVj11w+GDRwimvXgFjrqDvy0OijPwIonZkde0YeNVNxu8zdZML4\n9ZIxHNm9KSCPDifiHRV+oR5JEnm0E8urq0nfEO0aNKGUcQw49t0sGwWb9tOVRQEA\n57ukydbeVEnNxN4bVIcdssSBQ4ku4omEvVuAPNYNBa5ME1ZX+aWf8vxdAoGBAI4K\nx4MeU8ntXF9BVekEhhrfXRvuaL4C2R/W8DQxmZDv4mswXKe48YfBx8H7M+QiZ70s\nCMx8VhNhVjq2zUsYhvNRH8lJkN1Efq5oxA4yB0WWyOafq9yI3Ia1JRpea74WFC8s\n51Y1XCTjDjJULqJtyazLjkIv4+qY2+nqeWk94uw/AoGBAMETQMRpp687j0LOq9lH\nSqHjTwKVR3ol87aNJUl13b+8I247cwRSU/jA6Wie0scAewVAlVj9mucUIfM+Yh88\n7HcEvke2u7T/8ITz9uBXBq2m4isDV+C05Efj+65adCOYC4YD1Eod/AxXgra8FhSU\nnSH1ZVia3VJhHAJQc972eTr4\n-----END PRIVATE KEY-----\n",
+  "client_email": "aimecloudvoicetotext@aimevoice2017.iam.gserviceaccount.com",
+  "client_id": "114063924489276659307",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aimecloudvoicetotext%40aimevoice2017.iam.gserviceaccount.com"
+}

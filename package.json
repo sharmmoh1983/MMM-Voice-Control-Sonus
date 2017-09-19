@@ -1,0 +1,36 @@
+{
+  "name": "MMM-Voice-Control-Sonus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MMM-Voice-Control-Sonus.js",
+  "author": "Mohit",
+  "license": "1.2.1",
+  "scripts": {
+    "electron-rebuild": "electron-rebuild --pre-gyp-fix",
+    "node-pre-gyp": "node-pre-gyp clean configure build"
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-eslint": "latest",
+    "grunt-jsonlint": "latest",
+    "grunt-markdownlint": "^1.0.13",
+    "grunt-stylelint": "latest",
+    "grunt-yamllint": "latest",
+    "stylelint-config-standard": "latest",
+    "time-grunt": "latest",
+    "electron-rebuild": "^1.5.7"
+  },
+  "dependencies": {
+    "apiai": "*",
+    "aws-sdk": "*",
+    "google-tts-api": "*",
+    "icy": "*",
+    "lame": "*",
+    "node-google-text-to-speech": "^0.1.0",
+    "play-sound": "*",
+    "sonus": "^0.1.8",
+    "soundplayer": "*",
+    "speaker": "^0.3.0",
+    "natural": "*"
+  }
+}
